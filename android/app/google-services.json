@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970687993684",
+    "firebase_url": "https://absolute-cache-297117.firebaseio.com",
+    "project_id": "absolute-cache-297117",
+    "storage_bucket": "absolute-cache-297117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970687993684:android:1a261a64012bdfc2255ac1",
+        "android_client_info": {
+          "package_name": "com.example.google_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970687993684-31ie33ur0i8anlse1fun8p10fp7lbdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN__saN71ynYj2GIjxaq132UmnnvL4Lyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970687993684-31ie33ur0i8anlse1fun8p10fp7lbdds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
